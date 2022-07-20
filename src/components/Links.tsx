@@ -35,7 +35,7 @@ export function Links() {
             <a 
               className="h-[54px] w-full mb-4 uppercase text-xs justify-center items-center flex rounded-md bg-indigo-600 hover:bg-indigo-800 transition-colors"
               href="https://twitter.com/O_Tala_ " target="_blank">
-                <TwitchLogo size={20} />
+                <TwitterLogo size={20} />
                 Twitter
             </a>
           </li>
