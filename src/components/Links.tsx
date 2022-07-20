@@ -1,4 +1,4 @@
-import { GithubLogo, InstagramLogo, LinkedinLogo, TwitchLogo } from 'phosphor-react'
+import { GithubLogo, InstagramLogo, LinkedinLogo, TwitterLogo } from 'phosphor-react'
 
 export function Links() {
   return (
